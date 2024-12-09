@@ -6,3 +6,5 @@ customer changes internal changes we have to change the version number
 
 using Junit for the testing framework to write automated test on java
 
+3rd class
+We did configuration write testconfiguration 
